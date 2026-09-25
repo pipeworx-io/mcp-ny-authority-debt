@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ny-authority-debt",
   "title": "Ny Authority Debt",
   "description": "ny-authority-debt — New York public authority debt issuance.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ny-authority-debt",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ny-authority-debt",
