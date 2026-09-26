@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ny-authority-debt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ny-authority-debt — New York public authority debt issuance.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d1b27b6ad3a732162c84d0954f0cac101e8c403fafb9a165d2c6ac1f7d17040e",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-aee0118b1eab15effcbabb93bae1635379064cecb5209324e6188705918d06ca",
+    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
   }
 }
