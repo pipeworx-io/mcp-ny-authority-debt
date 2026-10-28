@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/ny-authority-debt",
   "title": "Ny Authority Debt",
-  "description": "ny-authority-debt — New York public authority debt issuance.",
-  "version": "0.1.2",
+  "description": "ny-authority-debt — New York public authority debt issuance. Fleet #1001.",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/ny-authority-debt",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ny-authority-debt",
