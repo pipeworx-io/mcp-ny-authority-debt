@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ny-authority-debt",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ny-authority-debt — New York public authority debt issuance. Fleet #1001.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ny-authority-debt",
     "gatewaySlug": "ny-authority-debt",
-    "sourceHash": "v1-2149f51b7e42ecf624b2db4ea89be8da02e367fea0d5cc90b7354a3a040c201f",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-0e7639ff25da23dfbb4c096bdc6c91931c69253f3e7fb2bb96586e060aacfe2d",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
